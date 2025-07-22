@@ -3,7 +3,10 @@ Map<String, int> produk = {
   'Sabun': 5000,
   'Sikat Gigi': 7000,
   'Shampoo': 10000,
-  'Kopi': 6000
+  'Kopi': 6000,
+  'Beras': 12000,
+  'Gula': 8000,
+
 };
 
 Map<String, int> keranjang = {};
